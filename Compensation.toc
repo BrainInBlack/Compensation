@@ -1,8 +1,8 @@
 ## Interface: 70100
 
 ## Title: Compensation
-## Notes: Enables Lag Compensation based on your current Latency
-## Version: 1.2
+## Notes: Enables the builtin Lag-Compensation and updates it's values according to your current Latency.
+## Version: 1.2.1
 ## Author: BrainInBlack
 
 Compensation.lua
