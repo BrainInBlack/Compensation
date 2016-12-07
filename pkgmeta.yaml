@@ -1,5 +1,5 @@
 package-as: Compensation
 
 ignore:
-  -LICENSE.md
-  -README.md
+  - LICENSE.md
+  - README.md
