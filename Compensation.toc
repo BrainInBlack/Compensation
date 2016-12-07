@@ -2,7 +2,7 @@
 
 ## Title: Compensation
 ## Notes: Enables the builtin Lag-Compensation and updates it's values according to your current Latency.
-## Version: 1.2.1
+## Version: 1.2.2
 ## Author: BrainInBlack
 
 Compensation.lua
