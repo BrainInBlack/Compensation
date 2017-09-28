@@ -14,8 +14,8 @@ This can result in better frame rates and a overall better "feeling" game.
 
 ## Credits
 
-Daniel "BrainInBlack" Lieberwirth
+[**Daniel Lieberwirth** (BrainInBlack)](https://github.com/BrainInBlack)
 
 ## License
 
-GNU LGPL-3.0 License
+[GNU LGPL-3.0 License](LICENSE.md)
