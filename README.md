@@ -1,6 +1,6 @@
 # Compensation
 
-Enables the builtin Lag-Compensation and updates it's values according to your current Latency, to ensure the best results.
+Enables the built-in Lag-Compensation and updates its values according to your current Latency, to ensure the best results.
 
 This can result in better frame rates and a overall better "feeling" game.
 
