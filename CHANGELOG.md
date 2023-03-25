@@ -2,6 +2,7 @@
 
 ## 1.2.6
 * Implemented cleaner changelog to the Curse Build System
+* Changed window to the more common WorldLag + 50
 
 ## 1.2.4 - 1.2.5
 * Incremental Interface version change (WoW patch 7.2.x and 7.3.x)

@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 100007
 
 ## Title: Compensation
 ## Notes: Enables the builtin Lag-Compensation and updates it's values according to your current Latency.
