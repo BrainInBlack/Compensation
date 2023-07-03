@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.7
+* Reverted window to just WorldLag
+
 ## 1.2.6
 * Implemented cleaner changelog to the Curse Build System
 * Changed window to the more common WorldLag + 50
